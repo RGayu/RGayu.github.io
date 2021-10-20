@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+# Gayathri Rajakumar
 
 You can use the [editor on GitHub](https://github.com/Gayathri23599/Gayathri23599.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
