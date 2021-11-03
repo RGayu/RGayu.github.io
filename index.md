@@ -5,8 +5,7 @@ I'm a cybersecurity engineer looking forward to exploring pen testing, applicati
 # Publications
 
 #### A Machine Learning Framework for Domain Generating Algorithm based Malware Detection
-Wiley Security and Privacy
-https://doi.org/10.1002/spy2.127
+[Wiley Security and Privacy] (https://doi.org/10.1002/spy2.127)   
 Created a machine learning framework for real-time detection of DGA generated domain names. Models Used: SVM, J48, Logistic regression, Gradient Boosting Tree, DBSCAN, OPTICS
 
 # Projects
@@ -21,7 +20,7 @@ Simulated a BGP Hijacking attack using Mininet
 Simulated a stack buffer overflow attack. Simulated a return-to-libc overflow attack
 
 #### Location based Advertisement Delivery using Vehicular Ad-hoc Networks (VANETs)
-Simulated a VANET using NS2 that is capable of delivering the advertisements to users . Used location to deliver advertisement from vendors that are closer. Incorporated user preference using machine learning algorithm
+Simulated a VANET using NS2 that is capable of delivering the advertisements to users. Used location to deliver advertisement from vendors that are closer. Incorporated user preference using machine learning algorithm
 
 #### Intelligent Traffic Management System 
 Developed a web application that gathers live traffic data from Twitter feed. Suggested the shortest route based on the distance, time taken and traffic delays
