@@ -1,37 +1,38 @@
-# Gayathri Rajakumar
+# About
 
-You can use the [editor on GitHub](https://github.com/Gayathri23599/Gayathri23599.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I'm a cybersecurity engineer looking forward to exploring pen testing, application security, and securing computer systems. I'm currently pursuing MS in Cybersecurity ag Georgia  I'm an enthusiastic and curious person always looking for new opportunities to learn and meet new people. I'm an avid reader, mystery and thriller are my favorite genre. Sherlock Holmes and Hercule Poirot are always competing for the best detective position in my heart.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Publications
 
-### Markdown
+##### A Machine Learning Framework for Domain Generating Algorithm based Malware Detection
+Wiley Security and Privacy
+https://doi.org/10.1002/spy2.127
+• Created a machine learning framework for real-time detection of DGA generated domain names
+Models Used: SVM, J48, Logistic regression, Gradient Boosting Tree, DBSCAN, OPTICS
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Projects
 
-```markdown
-Syntax highlighted code block
+##### Establishing Trusted Communication Channels in Vehicular Ad-hoc Networks (VANETs) - Current
+• Create a Key exchange mechanism that ensures confidentiality and authenticity
+• Manage the overhead while adding security mechanisms 
 
-# Header 1
-## Header 2
-### Header 3
+##### Simulation of BGP Hijacking
+• Simulated a BGP Hijacking attack using Mininet
 
-- Bulleted
-- List
+##### Buffer Overflow attack
+• Simulated a stack buffer overflow attack
+• Simulated a return-to-libc overflow attack
 
-1. Numbered
-2. List
+##### Location based Advertisement Delivery using Vehicular Ad-hoc Networks (VANETs)
+• Simulated a VANET using NS2 that is capable of delivering the advertisements to users 
+• Used location to deliver advertisement from vendors that are closer
+• Incorporated user preference using machine learning algorithm
 
-**Bold** and _Italic_ and `Code` text
+##### Intelligent Traffic Management System 
+• Developed a web application that gathers live traffic data from Twitter feed
+• Suggested the shortest route based on the distance, time taken and traffic delays
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Gayathri23599/Gayathri23599.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+##### Semantic Segmentation of Cooking Videos
+• Used Differential Evolution to extract key frames from a video
+• Created a dataset and a model for identification of Indian ingredients 
+• Output is a video made from the extracted key frames
