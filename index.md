@@ -5,7 +5,7 @@ I'm a cybersecurity engineer looking forward to exploring pen testing, applicati
 # Publications
 
 #### A Machine Learning Framework for Domain Generating Algorithm based Malware Detection
-[Wiley Security and Privacy] (https://doi.org/10.1002/spy2.127)   
+[Wiley Security and Privacy](https://doi.org/10.1002/spy2.127)   
 Created a machine learning framework for real-time detection of DGA generated domain names. Models Used: SVM, J48, Logistic regression, Gradient Boosting Tree, DBSCAN, OPTICS
 
 # Projects
