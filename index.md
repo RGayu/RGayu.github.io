@@ -31,4 +31,4 @@ Used Differential Evolution to extract key frames from a video. Created a datase
 # Seminars
 
 ### Security Features of WhatsApp
-Presented the Security features of WhatsApp for the course Security in Computing. Slides: [here] (https://docs.google.com/presentation/d/1gQUxkfGvOkr7-UmSGJjqfaM5w0xtB9ypkUjemgCjygg/edit?usp=sharing)
+Presented the Security features of WhatsApp for the course Security in Computing. Slides: [here](https://docs.google.com/presentation/d/1gQUxkfGvOkr7-UmSGJjqfaM5w0xtB9ypkUjemgCjygg/edit?usp=sharing)
