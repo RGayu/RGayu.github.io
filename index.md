@@ -27,3 +27,8 @@ Developed a web application that gathers live traffic data from Twitter feed. Su
 
 #### Semantic Segmentation of Cooking Videos
 Used Differential Evolution to extract key frames from a video. Created a dataset and a model for identification of Indian ingredients. Output is a video made from the extracted key frames
+
+# Seminars
+
+### Security Features of WhatsApp
+Presented the Security features of WhatsApp for the course Security in Computing. Slides: [here] (https://docs.google.com/presentation/d/1gQUxkfGvOkr7-UmSGJjqfaM5w0xtB9ypkUjemgCjygg/edit?usp=sharing)
