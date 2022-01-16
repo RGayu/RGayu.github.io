@@ -1,6 +1,6 @@
 # About
 
-I'm a cybersecurity engineer looking forward to exploring pen testing, application security, and securing computer systems. I'm currently pursuing MS in Cybersecurity ag Georgia  I'm an enthusiastic and curious person always looking for new opportunities to learn and meet new people. I'm an avid reader, mystery and thriller are my favorite genre. Sherlock Holmes and Hercule Poirot are always competing for the best detective position in my heart.
+I'm a cybersecurity engineer looking forward to exploring pen testing, application security, and securing computer systems. I'm currently pursuing MS in Cybersecurity at Georgia Tech.  I'm an enthusiastic and curious person always looking for new opportunities to learn and meet new people. I'm an avid reader, mystery and thriller are my favorite genre. Sherlock Holmes and Hercule Poirot are always competing for the best detective position in my heart.
 
 # Publications
 
@@ -10,7 +10,7 @@ Created a machine learning framework for real-time detection of DGA generated do
 
 # Projects
 
-#### Establishing Trusted Communication Channels in Vehicular Ad-hoc Networks (VANETs) - Current
+#### Establishing Trusted Communication Channels in Vehicular Ad-hoc Networks (VANETs)
 Create a Key exchange mechanism that ensures confidentiality and authenticity. Manage the overhead while adding security mechanisms 
 
 #### Simulation of BGP Hijacking
